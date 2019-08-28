@@ -6,7 +6,7 @@ savetwit.py is intended to be run from inside your twitter archive folder, but y
 
 `python savetwit.py /path/to/tweet.js /path/to/whitelist.txt`
 
-a list of ids for deleted tweets is saved to bodied.txt in the directory the script is run from.
+a list of ids for deleted tweets is saved to `bodied.txt` in the directory the script is run from.
 
 ---
 
