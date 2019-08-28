@@ -7,7 +7,7 @@
 # the output is saved as keep.txt
 
 # we need the following libraries:
-from sys import argv # to let the user specify the input file
+from sys import argv
 import json # to parse the file
 
 # the user needs to tell us which files they want us to use. we'll open them
