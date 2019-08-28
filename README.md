@@ -10,6 +10,12 @@ a list of ids for deleted tweets is saved to bodied.txt in the directory the scr
 
 ---
 
-## disclaimer:
+## license
 
-this code is messy as all get out, and isn't really ready for public consumption yet. since this is my first public project, though, i'm willing to make mistakes. as they say, you only yolo once. please be nice.
+twitjudge.py v0.01 is licensed under the GPLv3
+
+i have no idea why you would want to fork this or even use it but hey, if you want to then by all means go ahead
+
+## disclaimer
+
+this code is messy as all get out, and isn't really ready for public consumption. **i provide zero guarantees that this code will run properly.** also, because i was really punchy when i wrote it the script talks like a certain very influential twitter personality, which i intend to change at some point and apologize for how lame it is. however, you only yolo once so i'm making it public. please be nice, or if you can't be nice, at least be constructive.
