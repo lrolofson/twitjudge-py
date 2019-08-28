@@ -1,4 +1,4 @@
-# savetwit.py
+# twitjudge.py
 #
 # parses the tweet archive file and presents it tweet by tweet, allowing the 
 # user to generate a list of IDs to exclude from deletion.
