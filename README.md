@@ -12,9 +12,7 @@ a list of ids for deleted tweets is saved to `bodied.txt` in the directory the s
 
 ## license
 
-twitjudge.py v0.01 is licensed under the GPLv3
-
-i have no idea why you would want to fork this or even use it but hey, if you want to then by all means go ahead
+twitjudge.py v0.01 is licensed under the GPLv3. i have no idea why you would want to fork this or even use it but hey, if you want to then by all means i won't try and stop you.
 
 ## disclaimer
 
