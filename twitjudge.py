@@ -7,13 +7,13 @@
 # the output is saved as keep.txt
 
 # we need the following libraries:
-import sys # to let the user specify the input file and to read from stdin
+from sys import argv # to let the user specify the input file
 import json # to parse the file
 
 # the user needs to tell us which files they want us to use. we'll open them
 # later, but let's just get the filenames for now
-srcfn = sys.argv[1]
-keepfn = sys.argv[2]
+srcfn = argv[1]
+keepfn = argv[2]
 retfn = "bodied.txt"
 
 tweetcount = 0
