@@ -71,7 +71,7 @@ def drawline(len,cha):
 drawline(15,"=")
 print("\n")
 
-print("savetwit.py by leland rolofson\n")
+print("twitjudge.py by leland rolofson\n")
     
 drawline(15,"=")
 print("\n")
