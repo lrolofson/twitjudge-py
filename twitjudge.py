@@ -26,11 +26,11 @@ killcount = 0
 def ynprompt():
     ReplyValid = False
     while ReplyValid == False:
-        reply = input("Does it spark joy? (y/n)")
+        reply = input("Does it spark joy? (y to keep, enter to discard)")
         if reply == "y":
             ReplyValid = True
             return True
-        if reply == "n":
+        if reply == "":
             ReplyValid = True
             return False
         else:
