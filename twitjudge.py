@@ -14,7 +14,7 @@ import json # to parse the file
 # later, but let's just get the filenames for now
 srcfn = argv[1]
 keepfn = argv[2]
-retfn = "bodied.txt"
+retfn = argv[3]
 
 tweetcount = 0
 tweettotal = 0
