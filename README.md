@@ -1,5 +1,5 @@
 # twitjudge.py v0.01
-reads your twitter archive tweet-by-tweet, asks if you want to keep them, and dumps the id strings into a whitelist file for your tweet deleter. written in python 3.7.
+reads your twitter archive tweet-by-tweet, asks if you want to keep them, and dumps the id strings into a whitelist file for your tweet deleter. written in python 3.7 but might work in other versions of python 3.
 
 ## usage
 twitjudge.py is intended to be run from inside your twitter archive folder, but you can run it from anywhere you wish, i'm not your boss
